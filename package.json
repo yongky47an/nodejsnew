@@ -1,0 +1,26 @@
+{
+  "name": "nodejsnew",
+  "version": "1.0.0",
+  "description": "test nodejs yongky",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yongky47an/nodejsnew.git"
+  },
+  "keywords": [
+    "fullstact"
+  ],
+  "author": "yongky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yongky47an/nodejsnew/issues"
+  },
+  "homepage": "https://github.com/yongky47an/nodejsnew#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1"
+  }
+}
